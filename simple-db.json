@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Administrator",
+      "username": "admin",
+      "password": "$2b$10$rTYRrYEXBXLac77J..57FOQrWh2QS/LsrKFoeY1m2L0zn1dNUCoPe",
+      "role": "admin",
+      "created_at": "2025-09-10T10:28:33.691Z",
+      "updated_at": "2025-09-10T10:28:33.694Z"
+    },
+    {
+      "id": 3,
+      "nama": "Kemal",
+      "username": "817931907",
+      "password": "$2b$10$RLUQ3196tVQZcm3GhIf/x.XI5bkpBnc0sq5URARlGXdeiZsXZqLEW",
+      "role": "petugas_pkp",
+      "created_at": "2025-09-10T10:32:12.425Z",
+      "updated_at": "2025-09-10T10:32:12.425Z"
+    },
+    {
+      "id": 4,
+      "nama": "Hanafi Khoiron",
+      "username": "hanafi",
+      "password": "$2b$10$7yn2iWOxXNKsQVMX0eJrre4von4aCw4zXIwyAjD7tcbUDxD0Zp7pa",
+      "role": "ar",
+      "created_at": "2025-09-10T10:32:44.569Z",
+      "updated_at": "2025-09-10T10:32:44.569Z"
+    },
+    {
+      "id": 5,
+      "nama": "Test Petugas",
+      "username": "test_petugas",
+      "password": "$2b$10$DkT6ju8JFC0yogNiepL8bO/oofCfctr3KPoZL.EGymQHYdA4Ey9yy",
+      "role": "petugas_pkp",
+      "created_at": "2025-09-10T10:39:48.694Z",
+      "updated_at": "2025-09-10T10:39:48.694Z"
+    },
+    {
+      "id": 6,
+      "nama": "Test Petugas 2",
+      "username": "test_petugas2",
+      "password": "$2b$10$lg6e43Fai.2WALYL9wIbsOkDJDEAtAC5vbNI/H1fVGDBf1kwHFy4G",
+      "role": "petugas_pkp",
+      "created_at": "2025-09-10T10:39:54.926Z",
+      "updated_at": "2025-09-10T10:39:54.926Z"
+    },
+    {
+      "id": 7,
+      "nama": "Test AR",
+      "username": "test_ar",
+      "password": "$2b$10$/7hklWTQJ5o0Z3iNrnYZpOXota2inMWMbWjkEAO0Cm8zBgn6AqT5O",
+      "role": "ar",
+      "created_at": "2025-09-10T11:14:04.820Z",
+      "updated_at": "2025-09-10T11:14:04.820Z"
+    }
+  ],
+  "lastUserId": 7
+}
